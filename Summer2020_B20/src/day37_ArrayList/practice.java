@@ -12,7 +12,8 @@ public class practice {
 
         for (int i = 0 ; i <= list.size()-1;i++){
             if (list.get(i)<5){
-                list.remove(i);
+                list.remove(i);//doesnt work
+
             }
         }
         System.out.println(list);
