@@ -48,6 +48,9 @@ public class Lambda_Expressions {
 
         num.removeIf(each-> Collections.frequency(num,each)!=1);//remove not unique
         System.out.println(num);
+        System.out.println("===========================================");
+
+
 
     }
 }

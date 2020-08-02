@@ -17,9 +17,13 @@ public class UniqueString {
         String uniques="";
         ArrayList<String> list=new ArrayList<>();
 
+        list.addAll(Arrays.asList(str.split("")));
+       /*
         for (String each :str.split("")){
+
             list.add(each);
         }
+        */
         System.out.println(list);
         for (String each:list) {
             int count = Collections.frequency(list, each);
