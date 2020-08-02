@@ -32,6 +32,39 @@ public class BulkOperations {
 
        boolean r3= list2.containsAll( Arrays.asList(1,2,4) );
         System.out.println(r3);
+        System.out.println("======================================");
+        // addAll()
+        ArrayList<Integer> numbers= new ArrayList<>();
+        Integer[] nums={30,25,40,15,55,65,75,85,95,100};
+
+        numbers.addAll( Arrays.asList(30,25,40,15,55,65,75,85,95,100));
+       // numbers.addAll( Arrays.asList(nums));
+
+        System.out.println(numbers);
+        System.out.println("=================================");
+
+        //removeAll()
+        ArrayList<Integer> list3=new ArrayList<>();
+        list3.addAll(Arrays.asList(30,25,40,15,55,65,75,85,95,100,25));
+        System.out.println(list3);
+         // remove (25,15,100)
+        list3.removeAll(Arrays.asList(25,15,100));
+        System.out.println(list3);
+
+        System.out.println("==============================");
+// retainAll()
+        ArrayList<Integer> list4=new ArrayList<>();
+
+        list4.addAll(Arrays.asList(1,1,2,2,3,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,12));
+        System.out.println(list4);
+
+        list4.retainAll(Arrays.asList(1,2,3,9));
+        System.out.println(list4);
+
+
+
+
+
 
     }
 }
