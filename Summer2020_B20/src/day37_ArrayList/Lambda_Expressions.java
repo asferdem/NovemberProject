@@ -3,6 +3,7 @@ package day37_ArrayList;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.function.Predicate;
 
 public class Lambda_Expressions {
@@ -41,6 +42,12 @@ public class Lambda_Expressions {
         names.removeIf(p -> p.startsWith("F") && p.endsWith("a"));
         System.out.println(names);
 
+        System.out.println("===============================================");
+        ArrayList<Integer> num=new ArrayList<>();
+        num.addAll(Arrays.asList(1,1,1,2,2,3,4,4,5,6,6,7,8,9,9));
+
+        num.removeIf(each-> Collections.frequency(num,each)!=1);//remove not unique
+        System.out.println(num);
 
     }
 }
