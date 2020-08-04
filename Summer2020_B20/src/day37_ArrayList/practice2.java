@@ -26,3 +26,4 @@ public class practice2 {
         System.out.println(names);
     }
 }
+
