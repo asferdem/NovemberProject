@@ -1,4 +1,4 @@
-package day_38JavaRecap;
+package day38_JavaRecap;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -40,7 +40,12 @@ public class GradeReport {
         //gradeA.removeIf(p-> p>59);
         System.out.println("Grade F: "+gradeF);
 
-
+        System.out.println("=============================");
+        System.out.println(gradeA.size()+" students made A");
+        System.out.println(gradeB.size()+" students made B");
+        System.out.println(gradeC.size()+" students made C");
+        System.out.println(gradeD.size()+" students made D");
+        System.out.println(gradeF.size()+" students made F");
 
 
 
