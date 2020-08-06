@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Self_practices/Self_practices.iml" filepath="$PROJECT_DIR$/Self_practices/Self_practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Summer2020_B20/Summer2020_B20.iml" filepath="$PROJECT_DIR$/Summer2020_B20/Summer2020_B20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitDemo/gitDemo.iml" filepath="$PROJECT_DIR$/gitDemo/gitDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitDemo1/gitDemo1.iml" filepath="$PROJECT_DIR$/gitDemo1/gitDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/replit_practices/replit_practices.iml" filepath="$PROJECT_DIR$/replit_practices/replit_practices.iml" />
+    </modules>
+  </component>
+</project>
