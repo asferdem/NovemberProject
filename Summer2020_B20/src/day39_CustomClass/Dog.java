@@ -6,7 +6,7 @@ public class Dog {
     String size;
     int age;
     String color;
-
+// test
     public void setDogInfo(String dogName,String dogBreed,String dogSize,int dogAge,String  dogColor){
         name=dogName;
         breed=dogBreed;
