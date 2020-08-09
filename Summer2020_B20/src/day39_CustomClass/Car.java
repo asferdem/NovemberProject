@@ -19,6 +19,14 @@ public class Car {
          color=carColor;
          mileage=carMileage;
          price=carPrice;
+
+
      }
+
+     public void getInfo(){
+         System.out.println(year+" "+brand+" "+model+", "+color+", "+mileage+", "+price);
+     }
+
+
 
 }

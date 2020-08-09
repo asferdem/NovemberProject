@@ -40,6 +40,15 @@ public class CarObjects {
         System.out.println(car2.color);
         System.out.println(car2.mileage);
         System.out.println(car2.price);
+        System.out.println("====================================================");
+
+        Car car3=new Car();
+        car3.setInfo("Audi","A 8 Long ",2021,"Black",1000.5,40000);
+                car3.getInfo();
+        Car car4=new Car();
+        car4.setInfo("Tesla","Model X",2020,"Gray",1000.5,50000);
+
+        car4.getInfo();
     }
 
 
