@@ -13,7 +13,7 @@ public class ArrayListMethods {
         list.add(40);
         list.add(50);
         list.add(40);
-        int a=list.indexOf(40);// return firt element index
+        int a=list.indexOf(40);// return first element index
         System.out.println(list.indexOf(40));//3
         System.out.println(a);//3
 
