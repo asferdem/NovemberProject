@@ -15,7 +15,7 @@ public class Dog {
         color=dogColor;
     }
 
-    public void getInfo(){
+    public void getDogInfo(){
         System.out.println(name+", "+breed+", "+size+", "+age+", "+color);
     }
 
