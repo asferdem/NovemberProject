@@ -1,8 +1,7 @@
-package day41_Static;
+package day41_toString;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 
 public class carpetObject2 {
     public static void main(String[] args) {

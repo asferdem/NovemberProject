@@ -1,4 +1,4 @@
-package day41_Static;
+package day41_toString;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -22,7 +22,8 @@ public class CattObjects2 {
         femaleCats1.removeIf(p-> p.gender=='M');
 
         maleCats1.addAll(Arrays.asList(catPark));
-        maleCats1.removeIf(p-> p.gender=='F');
+        //maleCats1.removeIf(p-> p.gender=='F');
+        maleCats1.removeAll(femaleCats1);
 
         System.out.println(femaleCats1);
         System.out.println("=======================================");

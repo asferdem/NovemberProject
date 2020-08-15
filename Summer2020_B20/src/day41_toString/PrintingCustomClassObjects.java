@@ -1,4 +1,4 @@
-package day41_Static;
+package day41_toString;
 
 public class PrintingCustomClassObjects {
     public static void main(String[] args) {
