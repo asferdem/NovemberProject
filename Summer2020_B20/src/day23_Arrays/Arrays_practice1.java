@@ -10,6 +10,7 @@ public class Arrays_practice1 {
 
           String name1= students[3];
         System.out.println(name1);
+        System.out.println(students);
         System.out.println("===============================================");
 
 
