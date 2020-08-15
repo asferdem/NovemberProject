@@ -44,5 +44,12 @@ public class carpet {
         System.out.println("================================");
     }
 
+    public String toString(){
+
+
+
+        return "widht :"+width+", length :"+length+", persian: "+isPersian;
+    }
+
 
 }
