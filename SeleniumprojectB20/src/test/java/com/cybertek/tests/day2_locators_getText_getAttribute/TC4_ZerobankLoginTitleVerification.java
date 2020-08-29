@@ -32,7 +32,7 @@ public class TC4_ZerobankLoginTitleVerification {
         // 6.Verify title changed to:Expected: “Zero – Account Activity”
 
         String actualTitle=driver.getTitle();
-        String expected="Zero – Account Activity";
+        String expected="Zero - Account Activity";
         if (actualTitle.equals(expected)){
             System.out.println("Title verification PASSED!");
         }else{
@@ -48,8 +48,8 @@ public class TC4_ZerobankLoginTitleVerification {
         // 8.Verify title changed to:Expected: “Zero – Transfer Funds”
 
         String actualTitle1=driver.getTitle();
-        if (actualTitle1.equals("Zero – Transfer Funds")){
-            System.out.println("title verification PASSED!");
+        if (actualTitle1.equals("Zero - Transfer Funds")){
+            System.out.println("Title verification PASSED!");
         }else{
             System.out.println("Title verification FAILED!!!");
             System.out.println("Actual : "+actualTitle1);
@@ -63,8 +63,8 @@ public class TC4_ZerobankLoginTitleVerification {
         // 10.Verify title changed to:Expected: “Zero - Pay Bills”
 
         String actualTitle2=driver.getTitle();
-        if (actualTitle2.equals(" Zero - Pay Bills")){
-            System.out.println("title verification PASSED!");
+        if (actualTitle2.equals("Zero - Pay Bills")){
+            System.out.println("Title verification PASSED!");
         }else{
             System.out.println("Title verification FAILED!!!");
             System.out.println("Actual : "+actualTitle2);
@@ -76,8 +76,8 @@ public class TC4_ZerobankLoginTitleVerification {
 
         // 12.Verify title changed to:Expected: “Zero – My Money Map”
         String actualTitle3=driver.getTitle();
-        if (actualTitle3.equals("Zero – My Money Map")){
-            System.out.println("title verification PASSED!");
+        if (actualTitle3.equals("Zero - My Money Map")){
+            System.out.println("Title verification PASSED!");
         }else{
             System.out.println("Title verification FAILED!!!");
             System.out.println("Actual : "+actualTitle3);
@@ -90,8 +90,8 @@ public class TC4_ZerobankLoginTitleVerification {
 
         // 14.Verify title changed to:Expected: “Zero – Online Statements”
         String actualTitle4=driver.getTitle();
-        if (actualTitle4.equals("Zero – Online Statements")){
-            System.out.println("title verification PASSED!");
+        if (actualTitle4.equals("Zero - Online Statements")){
+            System.out.println("Title verification PASSED!");
         }else{
             System.out.println("Title verification FAILED!!!");
             System.out.println("Actual : "+actualTitle4);
