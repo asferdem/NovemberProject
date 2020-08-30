@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 /*
 Truck Drivers	user179	UserUser123	https://qa2.vytrack.com/user/login
  */
-public class VytrackLogin {
+public class VytrackAllAC {
     public static void main(String[] args) throws InterruptedException {
         WebDriverManager.chromedriver().setup();
 

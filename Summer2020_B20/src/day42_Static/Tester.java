@@ -23,7 +23,7 @@ public class Tester {
         System.out.println(name+"is Creating Ticket");
     }
     public String toString(){
-     return "Name: "+name+"Gender: "+gender+"Jop Title: "+jopTitle+"Salary : "+salary+"Employee ID: "+employeeID;
+     return "Name: "+name+" Gender: "+gender+" Jop Title: "+jopTitle+" Salary : "+salary+" Employee ID: "+ employeeID;
     }
 
 
