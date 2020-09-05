@@ -18,11 +18,13 @@ public class AddEvent {public static void main(String[] args) throws Interrupted
     Thread.sleep(2000);
     driver.findElement(By.id("prependedInput2")).sendKeys("UserUser123" + Keys.ENTER);
     Thread.sleep(2000);
+
     //AC1
+
     driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[1]/a/span")).click();
     Thread.sleep(1000);
     driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[1]/div/div/ul/li[3]/a")).click();
-    //AC2
+   //AC2
     Thread.sleep(2000);
     driver.findElement(By.tagName("td")).click();
     Thread.sleep(2000);
@@ -35,8 +37,10 @@ public class AddEvent {public static void main(String[] args) throws Interrupted
 
     driver.findElement(By.xpath("//*[@id=\"container\"]/div[2]/div/div/div[2]/div/a")).click();
     Thread.sleep(2000);
+
     driver.findElement(By.name("oro_calendar_event_form[title]")).sendKeys("Fatih ERDEM");
     Thread.sleep(2000);
+
     driver.findElement(By.className("caret")).click();
     Thread.sleep(2000);
 
@@ -45,8 +49,9 @@ public class AddEvent {public static void main(String[] args) throws Interrupted
     driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[3]/a/span")).click();
 
     Thread.sleep(1000);
+
     driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[3]/div/div/ul/li[3]/a")).click();
     Thread.sleep(2000);
-    driver.close();
+    //driver.close();
 }
 }

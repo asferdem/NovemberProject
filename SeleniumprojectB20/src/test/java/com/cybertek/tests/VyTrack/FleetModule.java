@@ -22,8 +22,9 @@ public class FleetModule {
         //AC1
         driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[1]/a/span")).click();
         Thread.sleep(1000);
+
         driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[1]/div/div/ul/li[3]/a")).click();
         Thread.sleep(2000);
-        driver.close();
+
     }
 }
