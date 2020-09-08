@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class TC2_ZeroBAnkLinkTestVerfication {
+public class TC2_ZeroBAnLinkTestVerification {
     public static void main(String[] args) {
         //1.Open Chrome browser
         WebDriverManager.chromedriver().setup();
