@@ -22,6 +22,7 @@ public class AddEvent1 {
         driver.findElement(By.id("prependedInput2")).sendKeys("UserUser123");
         Thread.sleep(1000);
 
+        
         driver.findElement(By.id("_submit")).click();
         driver.findElement(By.className("unclickable")).click();
         Thread.sleep(1000);
