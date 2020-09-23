@@ -25,6 +25,7 @@ public class StoreManagerOdemeter {
 
         WebElement fleetModule=driver.findElement(By.cssSelector("#main-menu > ul > li:nth-child(2) > a > span"));
         fleetModule.click();
+        Thread.sleep(2000);
 
         WebElement odometerModule=driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[2]/div/div/ul/li[4]/a"));
         odometerModule.click();
