@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44868a75-9503-474d-a0bc-d4763005a399" name="Default Changelist" comment="3">
+      <change beforePath="$PROJECT_DIR$/../GenerateGmail" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateGmail" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/Library/AccesModifierTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/Library/InheritanceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/Library/Resources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/Library/Test_AccessModifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/Library/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_06_23_2020/ifStatement_quiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_06_30/Else_If_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_06_30/If_statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_07_2020/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_07_2020/Reverse_with_For_While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_08_2020/MaxNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_14_2020/Unique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_14_2020/UniqueNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_14_2020/UniqueWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_15_2020/FrequenceWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_15_2020/FrequenceWord2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_20_2020/ForEachLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_20_2020/Max_2DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_27_2020/CombineToArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_07_28_2020/Methods_ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_08_12_2020/quiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_08_19_2020/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/Practice_08_19_2020/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/OfficeHours/practice_07_13_2020/Frequence_Characters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day0/asd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day0/testing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day01/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day02_printStatements/Classmates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day02_printStatements/HelloCybertek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day02_printStatements/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day02_printStatements/PrintExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day02_printStatements/Shortcuts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day03_sequences_variables/AboutMyself.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day03_sequences_variables/EmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day03_sequences_variables/EscapeSequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day03_sequences_variables/Print_VS_Println.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day03_sequences_variables/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day03_sequences_variables/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day03_sequences_variables/Variables_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day03_sequences_variables/kgToPound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day03_sequences_variables/salary_calculater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day04_Variables/CarInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day04_Variables/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day04_Variables/Variable_string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day04_Variables/concate_Addition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day04_Variables/personal_info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day04_Variables/variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day04_Variables/variables2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day04_Variables/variables_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day04_Variables/variables_practice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day05_AritmaticOperators/ArithmethicOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day05_AritmaticOperators/EmployeeInfo_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day05_AritmaticOperators/EmployeeInfo_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day05_AritmaticOperators/practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day06_ComparisonOperators/SalaryCalculater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day06_ComparisonOperators/Swap1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day06_ComparisonOperators/implicit_explicit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day06_ComparisonOperators/relationalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day06_ComparisonOperators/swap2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day07_Unary_ShortHand/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day07_Unary_ShortHand/Shothand_Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day07_Unary_ShortHand/divisible_2_3_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day07_Unary_ShortHand/positive_negative_zero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day07_Unary_ShortHand/post_VS_Pre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day07_Unary_ShortHand/quiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day07_Unary_ShortHand/uniary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/GalonToLitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/Logical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/Practice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/even_odd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/practice3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/practice4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/tasks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day08_LogicalOperators/triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day09_ifElse_Statement/Breaks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day09_ifElse_Statement/Odd_even.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day09_ifElse_Statement/alcohol2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day09_ifElse_Statement/if_else.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day09_ifElse_Statement/task01Maximum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day09_ifElse_Statement/task3_medium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day09_ifElse_Statement/task4alcohol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day09_ifElse_Statement/tax2Minimum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day09_ifElse_Statement/vote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day10_IfStatement/Character_Identify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day10_IfStatement/GradeCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day10_IfStatement/MultiBranch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day10_IfStatement/protokol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/DayINAmount2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/DayInAmounth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/DayNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/DaysInMounth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/NestedIfPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/NestedIfPractice1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/NumberToWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/Tenary_practice5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/Ternary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/Ternary_Practice3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/Ternary_Practice4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/Ternary_practice1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day11_Nestedif_Switch/Ternary_practice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Bigger_number_Age_Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Day_Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Scanner_RateCalculater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Scanner_practice_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Switch_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Switch_monthInAday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Switch_practice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Switch_scanner_practice_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/Timer_clas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day12_Switch_Statement_Scanner/UserInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day13_Scanner/Nextline_VS_NextMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day13_Scanner/Nextline_practice1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day13_Scanner/Salary_calculator_scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day13_Scanner/ScannerMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day13_Scanner/Scanner_next.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day13_Scanner/Scanner_nextline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day13_Scanner/Sellected_Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day13_Scanner/next_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day14_Recap/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day14_Recap/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day14_Recap/NextLine_methods_rest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day14_Recap/Scanner_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day15_String/Practice1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day15_String/String_Intro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day15_String/String_Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day15_String/String_substring_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day15_String/Tasks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day15_String/practice2_Concat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day15_String/substring_method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day16_string_M/Math_calculater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day16_string_M/Practice_equalsignore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day16_string_M/Task1_freze_buzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day16_string_M/charAt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day16_string_M/equal_word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day16_string_M/lenght_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day16_string_M/string_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day16_string_M/string_methods_bolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day16_string_M/substring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day17_String_practice/Poll_VS_Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day17_String_practice/string_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day17_String_practice/string_methods_boolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day18_For_Loop_Intro/For_Loop_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day18_For_Loop_Intro/For_loop_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day18_For_Loop_Intro/for_loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/Alphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/ContinuesStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/ForLoop_Practice_Odd_Even.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/LoopsWhitOutCurlyBraces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/Odd_Even_Number_With_Continue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/SumOfNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/Sum_Of_Even_Odd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day19_For_Loop_break/breakStatament.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day20_While_Loop/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day20_While_Loop/ForLoop_Practice_UntillNegative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day20_While_Loop/RemoveDublicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day20_While_Loop/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day20_While_Loop/WhileLoop_PaswordCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day20_While_Loop/WhileLoop_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day20_While_Loop/WileLoop_Name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day20_While_Loop/branchingStatements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day21_loops/DivideTwoNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day21_loops/DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day21_loops/DoWhile_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day21_loops/Max_Min_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day21_loops/MinNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day22_Nested_Loop/Credentials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day22_Nested_Loop/Letter_Check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day22_Nested_Loop/Nested_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day22_Nested_Loop/Nested_Loop_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day22_Nested_Loop/Nested_Loop_Practice4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day22_Nested_Loop/Nested_loop_practice3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day22_Nested_Loop/occurances_Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day23_Arrays/Arrays_Shopping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day23_Arrays/Arrays_practice1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day23_Arrays/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day23_Arrays/CybertekInn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day23_Arrays/FrequencyCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day23_Arrays/MaxMinNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day23_Arrays/MonthName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day23_Arrays/SumOfTwoNumber_Forloop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/Arrays_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/Arrays_Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/Avarage_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/ForEachLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/Max_MIn_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/Uniqe_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/UniqueArrays_task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/UniqueCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/UniqueForEachLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/UniqueNumberForEachLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day24_Arrays/UniqueWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day25_Practices/Array_1_100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day25_Practices/CountEvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day25_Practices/LongestWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day25_Practices/Shortest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day25_Practices/ShortestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day25_Practices/StringArrays_3Charecter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day25_Practices/combineToArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day26_MultiDimensionalArray/Java_Python.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day26_MultiDimensionalArray/MultiDimenPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day26_MultiDimensionalArray/MultiDimensianalArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day26_MultiDimensionalArray/SortArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day27_Recap/ArraysUtulity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day27_Recap/Arrays_Practice1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day27_Recap/ForEachLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/MaxMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/MethodsPractice3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/MethodsWithParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/MethodsWithoutParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/MethodsWithoutParameters1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/MethodswithoutParamethers2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/PalindromeTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/ReverseString_Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/Unique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/UniqueElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/eligibility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day29_CustomMethads/retunKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day30_CustomMethods/MethodsCalls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day30_CustomMethods/RetunMethods3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day30_CustomMethods/ReturnMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day30_CustomMethods/ReturnMethods2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day30_CustomMethods/ReturnMethods4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day30_CustomMethods/WarmUpTaskCustomMaximum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day30_CustomMethods/recap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day31_Recap_CustomMethods/FrequencyOfChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day31_Recap_CustomMethods/MethodsPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day31_Recap_CustomMethods/Warmup_Frequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day32_MethodOverloading/AddElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day32_MethodOverloading/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day32_MethodOverloading/MethodCall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day32_MethodOverloading/MethodOverLooding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day32_MethodOverloading/MethodOverlooding2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day32_MethodOverloading/MethodsTasks_FormatFull_name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/Dates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/DescendingArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/Times.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/birthDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/datesPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/formatDecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/locolDateTimeFormating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/overLoading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day33_MethodOverloading_LocalDateTime/unique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day34_WrapperClasses/List_Intro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day34_WrapperClasses/List_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day34_WrapperClasses/MethodCalls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day34_WrapperClasses/Practice1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day34_WrapperClasses/WrapperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day34_WrapperClasses/WrapperClassMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day34_WrapperClasses/practice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day34_WrapperClasses/practiceDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day35_ArrayList/Arraylist_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day35_ArrayList/CombineArrays_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day35_ArrayList/SumOfDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day35_ArrayList/SumOfDigit2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day35_ArrayList/reverseOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day36_ArrayList/ArrayListMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day36_ArrayList/Collection_Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day36_ArrayList/Collections_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day36_ArrayList/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day36_ArrayList/Set_Methots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day36_ArrayList/Uniques2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day36_ArrayList/uniqueElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day37_ArrayList/BulkOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day37_ArrayList/BulkOperations_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day37_ArrayList/Collections_Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day37_ArrayList/Lambda_Expressions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day37_ArrayList/RemoveDigitLetters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day37_ArrayList/UniqueString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day37_ArrayList/frequencyOfChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day37_ArrayList/practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day37_ArrayList/practice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day38_JavaRecap/ArrayList_Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day38_JavaRecap/Collections_Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day38_JavaRecap/GradeReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day39_CustomClass/CapitalOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day39_CustomClass/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day39_CustomClass/CarMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day39_CustomClass/CarObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day39_CustomClass/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day39_CustomClass/DogPark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day39_CustomClass/DogsObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day39_CustomClass/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day40_CustomRecap/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day40_CustomRecap/BankAccountTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day40_CustomRecap/CapitalOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day40_CustomRecap/OfferJop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day40_CustomRecap/offer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/CarObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/CarpetObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/CatObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/CattObjects2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/Multi_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/PrintingCustomClassObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/carpet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/carpetObject2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day41_toString/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/Cybertek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/MyScrumTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/ScrumTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/ShapeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/StaticMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/StaticVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day42_Static/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day43_Static/StaticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day43_Static/StaticBlock2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day43_Static/StaticBlock3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day43_Static/StaticBlock4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day43_Static/Statin_VS_Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day43_Static/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day43_Static/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day44_Constructor/BankOfAzerbaijan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day44_Constructor/ConstructorIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day44_Constructor/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day44_Constructor/DogObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day44_Constructor/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day44_Constructor/HumanResources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day44_Constructor/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day44_Constructor/StudentObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day45_ConstructorContinue/Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day45_ConstructorContinue/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day45_ConstructorContinue/Paycheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day45_ConstructorContinue/SalaryCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day45_ConstructorContinue/ShoppingList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day45_ConstructorContinue/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day46_ConstructorCalls/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day46_ConstructorCalls/CarObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day46_ConstructorCalls/ConstructorCalls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day46_ConstructorCalls/ConstructorCalls2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day46_ConstructorCalls/ConstructorCalls3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day46_ConstructorCalls/ConstructorCalls4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day46_ConstructorCalls/EmploeeObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day46_ConstructorCalls/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day47_Encapsulation/AccessModifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day47_Encapsulation/CapitalOneEmployees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day47_Encapsulation/Credentials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day47_Encapsulation/EmployeeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day47_Encapsulation/Encapsulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day47_Encapsulation/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day47_Encapsulation/PersonObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day47_Encapsulation/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day47_Encapsulation/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day49_Inheritance/ScrumTeamTest/AppleInc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day49_Inheritance/ScrumTeamTest/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day49_Inheritance/ScrumTeamTest/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day49_Inheritance/ScrumTeamTest/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day49_Inheritance/ScrumTeamTest/ScrumTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day49_Inheritance/ScrumTeamTest/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/AccessModifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/CarTask/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/CarTask/CarCallObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/CarTask/Honda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/CarTask/Jeep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/CarTask/Mercedes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/CarTask/Tesla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/ShapeTask/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/ShapeTask/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/ShapeTask/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/ShapeTask/ShapeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day50_Inheritance_Overlriding/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/BrowserTask/BrowserObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/BrowserTask/ChromeBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/BrowserTask/FirefoxBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/BrowserTask/OperaBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/BrowserTask/WebDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/ExceptionHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/ExceptionHandling2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/ExceptionsIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/ExceptionsPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/PetsTasks/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/PetsTasks/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/PetsTasks/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/PetsTasks/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/PetsTasks/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/SuperKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/SuperKeyword2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/SuperKeyword3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/Y.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day51_Expections/Z.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day52_Exeptions/MultiCatchBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day52_Exeptions/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day52_Exeptions/ThrowKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day52_Exeptions/ThrowPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day52_Exeptions/ThrowsKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day52_Exeptions/ThrowsPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day53_FinalKeyword/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day53_FinalKeyword/BreaktimeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day53_FinalKeyword/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day53_FinalKeyword/FinalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day53_FinalKeyword/FinalMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day53_FinalKeyword/FinalVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day53_FinalKeyword/InvalidBrowserNameException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day53_FinalKeyword/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day53_FinalKeyword/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/CarTask/Bmw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/CarTask/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/CarTask/Jeep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/CarTask/ParkingLot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/CarTask/Tesla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/CarTask/Toyota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/EmployeeTask/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/EmployeeTask/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/EmployeeTask/PenFed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day54_Abstraction/EmployeeTask/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day55_AbstractionCont/ShapeTask/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day55_AbstractionCont/ShapeTask/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day55_AbstractionCont/ShapeTask/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day55_AbstractionCont/ShapeTask/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day55_AbstractionCont/ShapeTask/ShapeObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Eagle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Parrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Playable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Swimable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Talkative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/AnimalTask/Turtle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/PhoneAbstractTask/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/PhoneAbstractTask/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/PhoneAbstractTask/PhoneObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day56_Abstractions/PhoneAbstractTask/Samsung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/PhoneTask/AndroidApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/PhoneTask/AppleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/PhoneTask/Downloadable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/PhoneTask/Huawei.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/PhoneTask/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/PhoneTask/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/PhoneTask/PhoneObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/PhoneTask/Samsung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/Task/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/Task/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/Task/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/Task/ScrumMaster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day57_Polymorphism/Task/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day58_Polymorphism/AnimalTask/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day58_Polymorphism/AnimalTask/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day58_Polymorphism/AnimalTask/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day58_Polymorphism/AnimalTask/Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day58_Polymorphism/AppleINC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day58_Polymorphism/InstanceOf_Keyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day58_Polymorphism/PhoneShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer2020_B20/day58_Polymorphism/PhoneShop1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/AccesModifierTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/InheritanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/Resources.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/Test_AccessModifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_06_23_2020/ifStatement_quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_06_30/Else_If_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_06_30/If_statement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_07_2020/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_07_2020/Reverse_with_For_While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_08_2020/MaxNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_14_2020/Unique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_14_2020/UniqueNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_14_2020/UniqueWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_15_2020/FrequenceWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_15_2020/FrequenceWord2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_20_2020/ForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_20_2020/Max_2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_27_2020/CombineToArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_07_28_2020/Methods_ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_08_12_2020/quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_08_19_2020/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_08_19_2020/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/practice_07_13_2020/Frequence_Characters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day0/asd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day0/testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_printStatements/Classmates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_printStatements/HelloCybertek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_printStatements/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_printStatements/PrintExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_printStatements/Shortcuts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_sequences_variables/AboutMyself.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_sequences_variables/EmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_sequences_variables/EscapeSequences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_sequences_variables/Print_VS_Println.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_sequences_variables/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_sequences_variables/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_sequences_variables/Variables_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_sequences_variables/kgToPound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_sequences_variables/salary_calculater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_Variables/CarInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_Variables/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_Variables/Variable_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_Variables/concate_Addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_Variables/personal_info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_Variables/variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_Variables/variables2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_Variables/variables_practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_Variables/variables_practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_AritmaticOperators/ArithmethicOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_AritmaticOperators/EmployeeInfo_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_AritmaticOperators/EmployeeInfo_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_AritmaticOperators/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06_ComparisonOperators/SalaryCalculater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06_ComparisonOperators/Swap1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06_ComparisonOperators/implicit_explicit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06_ComparisonOperators/relationalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06_ComparisonOperators/swap2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07_Unary_ShortHand/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07_Unary_ShortHand/Shothand_Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07_Unary_ShortHand/divisible_2_3_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07_Unary_ShortHand/positive_negative_zero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07_Unary_ShortHand/post_VS_Pre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07_Unary_ShortHand/quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07_Unary_ShortHand/uniary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/GalonToLitter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/IfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/Logical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/Practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/even_odd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/practice3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/practice4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/tasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_LogicalOperators/triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_ifElse_Statement/Breaks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_ifElse_Statement/Odd_even.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_ifElse_Statement/alcohol2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_ifElse_Statement/if_else.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_ifElse_Statement/task01Maximum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_ifElse_Statement/task3_medium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_ifElse_Statement/task4alcohol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_ifElse_Statement/tax2Minimum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_ifElse_Statement/vote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_IfStatement/Character_Identify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_IfStatement/GradeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_IfStatement/MultiBranch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_IfStatement/protokol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/DayINAmount2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/DayInAmounth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/DayNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/DaysInMounth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/NestedIfPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/NestedIfPractice1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/NumberToWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/Tenary_practice5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/Ternary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/Ternary_Practice3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/Ternary_Practice4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/Ternary_practice1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_Nestedif_Switch/Ternary_practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Bigger_number_Age_Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Day_Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Scanner_RateCalculater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Scanner_practice_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Switch_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Switch_monthInAday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Switch_practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Switch_scanner_practice_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/Timer_clas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Statement_Scanner/UserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Scanner/Nextline_VS_NextMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Scanner/Nextline_practice1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Scanner/Salary_calculator_scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Scanner/ScannerMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Scanner/Scanner_next.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Scanner/Scanner_nextline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Scanner/Sellected_Browser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Scanner/next_practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day14_Recap/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day14_Recap/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day14_Recap/NextLine_methods_rest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day14_Recap/Scanner_practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day15_String/Practice1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day15_String/String_Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day15_String/String_Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day15_String/String_substring_methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day15_String/Tasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day15_String/practice2_Concat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day15_String/substring_method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string_M/Math_calculater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string_M/Practice_equalsignore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string_M/Task1_freze_buzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string_M/charAt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string_M/equal_word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string_M/lenght_practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string_M/string_methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string_M/string_methods_bolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string_M/substring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day17_String_practice/Poll_VS_Heap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day17_String_practice/string_methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day17_String_practice/string_methods_boolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18_For_Loop_Intro/For_Loop_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18_For_Loop_Intro/For_loop_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18_For_Loop_Intro/for_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/Alphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/ContinuesStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/ForLoop_Practice_Odd_Even.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/LoopsWhitOutCurlyBraces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/Odd_Even_Number_With_Continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/SumOfNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/Sum_Of_Even_Odd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_For_Loop_break/breakStatament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_While_Loop/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_While_Loop/ForLoop_Practice_UntillNegative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_While_Loop/RemoveDublicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_While_Loop/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_While_Loop/WhileLoop_PaswordCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_While_Loop/WhileLoop_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_While_Loop/WileLoop_Name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_While_Loop/branchingStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_loops/DivideTwoNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_loops/DoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_loops/DoWhile_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_loops/Max_Min_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_loops/MinNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Nested_Loop/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Nested_Loop/Letter_Check.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Nested_Loop/Nested_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Nested_Loop/Nested_Loop_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Nested_Loop/Nested_Loop_Practice4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Nested_Loop/Nested_loop_practice3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Nested_Loop/occurances_Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Arrays/Arrays_Shopping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Arrays/Arrays_practice1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Arrays/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Arrays/CybertekInn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Arrays/FrequencyCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Arrays/MaxMinNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Arrays/MonthName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Arrays/SumOfTwoNumber_Forloop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/Arrays_Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/Arrays_Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/Avarage_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/ForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/Max_MIn_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/Uniqe_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/UniqueArrays_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/UniqueCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/UniqueForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/UniqueNumberForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Arrays/UniqueWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_Practices/Array_1_100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_Practices/CountEvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_Practices/LongestWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_Practices/Shortest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_Practices/ShortestString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_Practices/StringArrays_3Charecter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_Practices/combineToArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_MultiDimensionalArray/Java_Python.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_MultiDimensionalArray/MultiDimenPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_MultiDimensionalArray/MultiDimensianalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_MultiDimensionalArray/SortArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_Recap/ArraysUtulity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_Recap/Arrays_Practice1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_Recap/ForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/MaxMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/MethodsPractice3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/MethodsWithParameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/MethodsWithoutParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/MethodsWithoutParameters1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/MethodswithoutParamethers2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/PalindromeTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/RemoveDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/ReverseString_Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/Unique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/UniqueElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/eligibility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_CustomMethads/retunKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_CustomMethods/MethodsCalls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_CustomMethods/RetunMethods3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_CustomMethods/ReturnMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_CustomMethods/ReturnMethods2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_CustomMethods/ReturnMethods4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_CustomMethods/WarmUpTaskCustomMaximum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_CustomMethods/recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day31_Recap_CustomMethods/FrequencyOfChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day31_Recap_CustomMethods/MethodsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day31_Recap_CustomMethods/Warmup_Frequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_MethodOverloading/AddElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_MethodOverloading/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_MethodOverloading/MethodCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_MethodOverloading/MethodOverLooding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_MethodOverloading/MethodOverlooding2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_MethodOverloading/MethodsTasks_FormatFull_name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/Dates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/DescendingArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/Times.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/birthDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/datesPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/formatDecimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/locolDateTimeFormating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/overLoading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day33_MethodOverloading_LocalDateTime/unique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/List_Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/List_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/MethodCalls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/Practice1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/WrapperClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/WrapperClassMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/practiceDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/Arraylist_methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/CombineArrays_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/SumOfDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/SumOfDigit2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/reverseOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_ArrayList/ArrayListMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_ArrayList/Collection_Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_ArrayList/Collections_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_ArrayList/RemoveDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_ArrayList/Set_Methots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_ArrayList/Uniques2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_ArrayList/uniqueElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/BulkOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/BulkOperations_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/Collections_Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/Lambda_Expressions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/RemoveDigitLetters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/UniqueString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/frequencyOfChars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_JavaRecap/ArrayList_Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_JavaRecap/Collections_Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_JavaRecap/GradeReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_CustomClass/CapitalOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_CustomClass/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_CustomClass/CarMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_CustomClass/CarObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_CustomClass/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_CustomClass/DogPark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_CustomClass/DogsObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_CustomClass/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_CustomRecap/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_CustomRecap/BankAccountTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_CustomRecap/CapitalOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_CustomRecap/OfferJop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_CustomRecap/offer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/CarObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/CarpetObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/CatObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/CattObjects2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/Multi_Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/PrintingCustomClassObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/carpet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day41_toString/carpetObject2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/Cybertek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/MyScrumTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/ScrumTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/ShapeObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/StaticMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/StaticVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Static/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day43_Static/StaticBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day43_Static/StaticBlock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day43_Static/StaticBlock3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day43_Static/StaticBlock4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day43_Static/Statin_VS_Instance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day43_Static/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day43_Static/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Constructor/BankOfAzerbaijan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Constructor/ConstructorIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Constructor/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Constructor/DogObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Constructor/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Constructor/HumanResources.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Constructor/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Constructor/StudentObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day45_ConstructorContinue/Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day45_ConstructorContinue/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day45_ConstructorContinue/Paycheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day45_ConstructorContinue/SalaryCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day45_ConstructorContinue/ShoppingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day45_ConstructorContinue/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day46_ConstructorCalls/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day46_ConstructorCalls/CarObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day46_ConstructorCalls/ConstructorCalls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day46_ConstructorCalls/ConstructorCalls2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day46_ConstructorCalls/ConstructorCalls3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day46_ConstructorCalls/ConstructorCalls4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day46_ConstructorCalls/EmploeeObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day46_ConstructorCalls/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Encapsulation/AccessModifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Encapsulation/CapitalOneEmployees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Encapsulation/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Encapsulation/EmployeeObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Encapsulation/Encapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Encapsulation/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Encapsulation/PersonObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Encapsulation/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Encapsulation/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day49_Inheritance/ScrumTeamTest/AppleInc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day49_Inheritance/ScrumTeamTest/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day49_Inheritance/ScrumTeamTest/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day49_Inheritance/ScrumTeamTest/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day49_Inheritance/ScrumTeamTest/ScrumTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day49_Inheritance/ScrumTeamTest/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/AccessModifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/CarTask/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/CarTask/CarCallObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/CarTask/Honda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/CarTask/Jeep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/CarTask/Mercedes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/CarTask/Tesla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/ShapeTask/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/ShapeTask/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/ShapeTask/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/ShapeTask/ShapeObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day50_Inheritance_Overlriding/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/BrowserTask/BrowserObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/BrowserTask/ChromeBrowser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/BrowserTask/FirefoxBrowser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/BrowserTask/OperaBrowser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/BrowserTask/WebDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/ExceptionHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/ExceptionHandling2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/ExceptionsIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/ExceptionsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/PetsTasks/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/PetsTasks/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/PetsTasks/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/PetsTasks/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/PetsTasks/Tiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/SuperKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/SuperKeyword2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day51_Expections/SuperKeyword3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Exeptions/MultiCatchBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Exeptions/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Exeptions/ThrowKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Exeptions/ThrowPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Exeptions/ThrowsKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Exeptions/ThrowsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day53_FinalKeyword/BreaktimeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day53_FinalKeyword/FinalClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day53_FinalKeyword/FinalMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day53_FinalKeyword/FinalVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day53_FinalKeyword/InvalidBrowserNameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/CarTask/Bmw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/CarTask/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/CarTask/Jeep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/CarTask/ParkingLot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/CarTask/Tesla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/CarTask/Toyota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/EmployeeTask/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/EmployeeTask/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/EmployeeTask/PenFed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Abstraction/EmployeeTask/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day55_AbstractionCont/ShapeTask/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day55_AbstractionCont/ShapeTask/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day55_AbstractionCont/ShapeTask/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day55_AbstractionCont/ShapeTask/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day55_AbstractionCont/ShapeTask/ShapeObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Eagle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Parrot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Playable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Swimable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Talkative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/AnimalTask/Turtle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/PhoneAbstractTask/Iphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/PhoneAbstractTask/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/PhoneAbstractTask/PhoneObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day56_Abstractions/PhoneAbstractTask/Samsung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/PhoneTask/AndroidApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/PhoneTask/AppleApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/PhoneTask/Downloadable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/PhoneTask/Huawei.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/PhoneTask/Iphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/PhoneTask/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/PhoneTask/PhoneObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/PhoneTask/Samsung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/Task/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/Task/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/Task/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/Task/ScrumMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_Polymorphism/Task/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day58_Polymorphism/AnimalTask/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day58_Polymorphism/AnimalTask/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day58_Polymorphism/AnimalTask/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day58_Polymorphism/AnimalTask/Zoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day58_Polymorphism/AppleINC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day58_Polymorphism/InstanceOf_Keyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day58_Polymorphism/PhoneShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day58_Polymorphism/PhoneShop1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day58_Polymorphism/TypeCastings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Summer2020_B20_Muhtars" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Summer2020_B20_1/src/day62_Maps/GarbageCollectionReview.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Summer2020_B20_1/src/day62_Maps/Test.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Summer2020_B20_1/src/day62_Maps/Month.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Summer2020_B20_1/src/day62_Maps/String_VS_Builder_VS_Buffer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1cgNO6wIUXIVAxP8hnE7Iud34IV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.GarbageCollectionReview">
+    <configuration name="GarbageCollectionReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day62_Maps.GarbageCollectionReview" />
+      <module name="Summer2020_B20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day62_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratingMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day62_Maps.IteratingMap" />
+      <module name="Summer2020_B20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day62_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOfMaps2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day62_Maps.ListOfMaps2" />
+      <module name="Summer2020_B20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day62_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetEntryForMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day62_Maps.SetEntryForMap" />
+      <module name="Summer2020_B20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day62_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day62_Maps.UniqueTask" />
+      <module name="Summer2020_B20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day62_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GarbageCollectionReview" />
+        <item itemvalue="Application.ListOfMaps2" />
+        <item itemvalue="Application.IteratingMap" />
+        <item itemvalue="Application.SetEntryForMap" />
+        <item itemvalue="Application.UniqueTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44868a75-9503-474d-a0bc-d4763005a399" name="Default Changelist" comment="" />
+      <created>1590946241445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590946241445</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;update2&quot;">
+      <created>1596989887314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596989887314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;update 5&quot;">
+      <created>1596999484892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596999484892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;update 6&quot;">
+      <created>1597019808569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597019808569</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;update &quot;">
+      <created>1597789715740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597789715740</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;update &quot;">
+      <created>1597801317693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597801317693</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;update &quot;">
+      <created>1597802325940</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597802325940</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;update &quot;">
+      <created>1597876466059</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597876466059</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;update &quot;">
+      <created>1597893450364</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597893450364</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;update &quot;">
+      <created>1597893506736</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597893506736</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;update &quot;">
+      <created>1598403648704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598403648704</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&quot;update &quot;">
+      <created>1598407147892</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598407147892</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1">
+      <created>1598493390037</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598493390037</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1">
+      <created>1598718736620</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1598718736620</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2">
+      <created>1599325429879</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1599325429879</updated>
+    </task>
+    <task id="LOCAL-00015" summary="3">
+      <created>1599325487108</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1599325487108</updated>
+    </task>
+    <task id="LOCAL-00016" summary="3">
+      <created>1599701893590</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1599701893590</updated>
+    </task>
+    <task id="LOCAL-00017" summary="3">
+      <created>1599701998042</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1599701998042</updated>
+    </task>
+    <task id="LOCAL-00018" summary="3">
+      <created>1600213003405</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1600213003405</updated>
+    </task>
+    <task id="LOCAL-00019" summary="3">
+      <created>1600214896304</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1600214896304</updated>
+    </task>
+    <task id="LOCAL-00020" summary="3">
+      <created>1600306936979</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1600306936979</updated>
+    </task>
+    <task id="LOCAL-00021" summary="3">
+      <created>1600527655002</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1600527655002</updated>
+    </task>
+    <task id="LOCAL-00022" summary="3">
+      <created>1600909716768</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1600909716768</updated>
+    </task>
+    <task id="LOCAL-00023" summary="3">
+      <created>1600909750661</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1600909750661</updated>
+    </task>
+    <task id="LOCAL-00024" summary="3">
+      <created>1600912569734</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1600912569734</updated>
+    </task>
+    <task id="LOCAL-00025" summary="3">
+      <created>1602121743792</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602121743792</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;update2&quot;" />
+    <MESSAGE value="&quot;update 4&quot;" />
+    <MESSAGE value="&quot;update 5&quot;" />
+    <MESSAGE value="&quot;update 6&quot;" />
+    <MESSAGE value="&quot;update &quot;" />
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="31" key="#Inspections" timestamp="1602954288352">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="305" y="31" key="#Inspections/0.0.1366.738/-1920.-108.1920.1050@0.0.1366.738" timestamp="1602954288352" />
+    <state x="347" y="78" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1595691998095">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="78" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1595691998095" />
+    <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1601133276466">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/-1920.-109.1920.1050@0.0.1366.738" timestamp="1601133276466" />
+    <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598729378140" />
+    <state x="408" y="255" width="549" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597888717960">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="408" y="255" width="549" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1597888717960" />
+    <state x="376" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597590213015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="376" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1597590213015" />
+    <state x="347" y="67" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595296930607">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="67" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1595296930607" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1598729725568">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598729725568" />
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog" timestamp="1596400474736">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1596400474736" />
+    <state x="410" y="78" key="FileChooserDialogImpl" timestamp="1596061663844">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="410" y="78" key="FileChooserDialogImpl/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1596061663844" />
+    <state x="515" y="257" key="Github.ShareDialog" timestamp="1597789668074">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="515" y="257" key="Github.ShareDialog/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1597789668074" />
+    <state width="1311" height="204" key="GridCell.Tab.0.bottom" timestamp="1602980515422">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1311" height="204" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-108.1920.1050@0.0.1366.738" timestamp="1602980515422" />
+    <state width="1311" height="155" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-109.1920.1050@0.0.1366.738" timestamp="1601147756964" />
+    <state width="1187" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768/-1920.-109.1920.1080@-1920.-109.1920.1080" timestamp="1596580860753" />
+    <state width="1311" height="147" key="GridCell.Tab.0.bottom/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598738777119" />
+    <state width="1311" height="228" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1595859097263" />
+    <state width="1311" height="204" key="GridCell.Tab.0.center" timestamp="1602980515421">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1311" height="204" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-108.1920.1050@0.0.1366.738" timestamp="1602980515421" />
+    <state width="1311" height="155" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-109.1920.1050@0.0.1366.738" timestamp="1601147756964" />
+    <state width="1187" height="220" key="GridCell.Tab.0.center/0.0.1366.768/-1920.-109.1920.1080@-1920.-109.1920.1080" timestamp="1596580860753" />
+    <state width="1311" height="147" key="GridCell.Tab.0.center/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598738777118" />
+    <state width="1311" height="228" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1595859097263" />
+    <state width="1311" height="204" key="GridCell.Tab.0.left" timestamp="1602980515421">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1311" height="204" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-108.1920.1050@0.0.1366.738" timestamp="1602980515421" />
+    <state width="1311" height="155" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-109.1920.1050@0.0.1366.738" timestamp="1601147756964" />
+    <state width="1187" height="220" key="GridCell.Tab.0.left/0.0.1366.768/-1920.-109.1920.1080@-1920.-109.1920.1080" timestamp="1596580860753" />
+    <state width="1311" height="147" key="GridCell.Tab.0.left/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598738777117" />
+    <state width="1311" height="228" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1595859097262" />
+    <state width="1311" height="204" key="GridCell.Tab.0.right" timestamp="1602980515421">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1311" height="204" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-108.1920.1050@0.0.1366.738" timestamp="1602980515421" />
+    <state width="1311" height="155" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-109.1920.1050@0.0.1366.738" timestamp="1601147756964" />
+    <state width="1187" height="220" key="GridCell.Tab.0.right/0.0.1366.768/-1920.-109.1920.1080@-1920.-109.1920.1080" timestamp="1596580860753" />
+    <state width="1311" height="147" key="GridCell.Tab.0.right/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598738777118" />
+    <state width="1311" height="228" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1595859097263" />
+    <state width="1311" height="222" key="GridCell.Tab.1.bottom" timestamp="1598402226875">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1311" height="222" key="GridCell.Tab.1.bottom/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598402226875" />
+    <state width="1311" height="221" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594512397685" />
+    <state width="1311" height="222" key="GridCell.Tab.1.center" timestamp="1598402226874">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1311" height="222" key="GridCell.Tab.1.center/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598402226874" />
+    <state width="1311" height="221" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1594512397684" />
+    <state width="1311" height="222" key="GridCell.Tab.1.left" timestamp="1598402226874">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1311" height="222" key="GridCell.Tab.1.left/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598402226874" />
+    <state width="1311" height="221" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1594512397684" />
+    <state width="1311" height="222" key="GridCell.Tab.1.right" timestamp="1598402226874">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1311" height="222" key="GridCell.Tab.1.right/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598402226874" />
+    <state width="1311" height="221" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1594512397685" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1598718208931">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598718208931" />
+    <state width="748" height="598" key="SwitcherDM" timestamp="1596591825292">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="748" height="598" key="SwitcherDM/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1596591825292" />
+    <state x="175" y="49" key="Vcs.Push.Dialog.v2" timestamp="1602121746642">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="175" y="49" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1920.-108.1920.1050@0.0.1366.738" timestamp="1602121746642" />
+    <state x="175" y="49" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1920.-109.1920.1050@0.0.1366.738" timestamp="1600912571868" />
+    <state x="175" y="51" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598729733686" />
+    <state x="239" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598919466653">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="239" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738/-1920.-109.1920.1050@0.0.1366.738" timestamp="1598919466653" />
+    <state x="458" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598404592794">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="458" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1598404592794" />
+    <state x="122" y="46" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594512390291">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="122" y="46" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1594512390291" />
+    <state x="136" y="53" width="1103" height="744" key="dock-window-1" timestamp="1597888958490">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="136" y="53" width="1103" height="744" key="dock-window-1/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1597888958490" />
+    <state x="-1344" y="-109" width="1103" height="744" maximized="true" key="dock-window-2" timestamp="1597893372675">
+      <screen x="-1920" y="-109" width="1920" height="1080" />
+    </state>
+    <state x="-1344" y="-109" width="1103" height="744" maximized="true" key="dock-window-2/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1597893372675" />
+    <state width="752" height="266" key="javadoc.popup" timestamp="1602962825212">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="752" height="266" key="javadoc.popup/0.0.1366.738/-1920.-108.1920.1050@0.0.1366.738" timestamp="1602962825212" />
+    <state x="0" y="0" key="new project wizard" timestamp="1597784847650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1597784847650" />
+    <state x="0" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1596568530190" />
+    <state x="255" y="161" key="run.anything.popup" timestamp="1602117108123">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="255" y="161" key="run.anything.popup/0.0.1366.738/-1920.-108.1920.1050@0.0.1366.738" timestamp="1602117108123" />
+    <state x="255" y="161" key="run.anything.popup/0.0.1366.738/-1920.-109.1920.1050@0.0.1366.738" timestamp="1599701965446" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1597892913864">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1597892913864" />
+    <state x="285" y="66" width="798" height="210" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597525292047">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="285" y="66" width="798" height="210" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.768/-1920.-109.1920.1080@0.0.1366.768" timestamp="1597525292047" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Summer2020_B20_1/src/Library/Util.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Summer2020_B20_1/src/Library/Util.java</url>
+          <line>365</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Summer2020_B20_1/src/Library/Util.java</url>
+          <line>299</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Summer2020_B20_1/src/day55_AbstractionCont/ShapeTask/Circle.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Summer2020_B20_1/src/OfficeHours/Practice_07_28_2020/Methods_ReverseString.java</url>
+          <line>33</line>
+          <properties class="OfficeHours.Practice_07_28_2020.Methods_ReverseString" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Summer2020_B20_1/src/day0/asd.java</url>
+          <line>4</line>
+          <properties class="day0.asd">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
