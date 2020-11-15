@@ -17,6 +17,8 @@ public class ReadTextFile {
         //file object - for reading file
         Scanner scanner = new Scanner(file);
 
+
+
         System.out.println(scanner.nextLine());
         System.out.println(scanner.nextLine());
 
