@@ -31,6 +31,7 @@ public class DisplayingAllDataFromAllColumns {
 
         // now how do you get all the row if you know how to get one row ???
         // I want to go from the first row till the last row and print all columns
+        System.out.println();
         rs.beforeFirst();
 
         while (rs.next() ){
