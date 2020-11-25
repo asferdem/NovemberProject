@@ -47,6 +47,10 @@ public class Review {
             System.out.println("MIN SALARY COLUMN AS NUMBER  $" + rs.getDouble("MIN_SALARY")    );
         }
 
+        rs.close();
+        stmnt.close();
+        conn.close();
+
     }
 
 }

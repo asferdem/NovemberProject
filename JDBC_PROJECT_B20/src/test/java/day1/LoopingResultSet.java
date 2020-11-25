@@ -28,7 +28,9 @@ public class LoopingResultSet {
                     );
         }
 
-
+        rs.close();
+        stmnt.close();
+        conn.close();
 
 
 

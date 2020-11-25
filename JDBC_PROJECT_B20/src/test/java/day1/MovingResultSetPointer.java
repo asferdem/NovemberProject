@@ -45,7 +45,9 @@ public class MovingResultSetPointer {
         System.out.println("NOW WE HAVE MOVED TO LAST ROW ");
         int currentRowNum = rs.getRow() ;
         System.out.println("Row Count  = " + currentRowNum);
-
+        rs.close();
+        stmnt.close();
+        conn.close();
 
     }
 }
