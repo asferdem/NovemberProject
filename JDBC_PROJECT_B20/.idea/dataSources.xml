@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="HR" uuid="6fcb93bf-aec4-43bd-a34c-e27ddbec0626">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@3.92.227.102:1521:XE</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Spartan" uuid="9b52518e-cd58-4b38-9ef0-05ab62939fc3">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@3.92.227.102:1521:XE</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="library_DB" uuid="80a904b5-33fe-428d-b4e2-4da279dc67a7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://18.233.97.71:3306/library1</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="library2" uuid="7b51ae59-d1c1-423d-813c-92eb227b4de3">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://18.233.97.71:3306/library2</jdbc-url>
+    </data-source>
+  </component>
+</project>
