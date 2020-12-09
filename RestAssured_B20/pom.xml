@@ -13,6 +13,7 @@
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
     <!--    This is for instructing to always build with Java 8 anywhere-->
     <build>
         <plugins>
@@ -29,17 +30,20 @@
     </build>
 
     <dependencies>
+
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
-            <version>4.3.2</version>
+            <version> 4.3.2</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
             <version>5.7.0</version>
+            <scope>test</scope>
         </dependency>
+
 
     </dependencies>
 
