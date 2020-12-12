@@ -3,7 +3,6 @@ import io.restassured.path.json.JsonPath;
 import org.junit.jupiter.api.*;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-
 import java.util.List;
 
 import static io.restassured.RestAssured.* ;
