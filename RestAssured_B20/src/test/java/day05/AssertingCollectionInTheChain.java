@@ -38,8 +38,8 @@ public class AssertingCollectionInTheChain {
                 .log().all()
                 .assertThat()
                 .statusCode(is(200))
-                .body("numberOfElements",equalTo(48))
-                .body("content",hasSize(48))
+                .body("numberOfElements",equalTo(50))
+                .body("content",hasSize(50))
                 .body("content.name",everyItem(containsStringIgnoringCase("a")))
                 .body("content.gender",everyItem(is("Female")))
 
