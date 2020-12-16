@@ -1,4 +1,4 @@
-package day05;
+package Day05;
 import io.restassured.http.ContentType;
 import utility.ConfigurationReader;
 import org.junit.jupiter.api.*;

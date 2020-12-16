@@ -1,12 +1,8 @@
-package day05;
+package Day05;
 import io.restassured.path.json.JsonPath;
 import org.junit.jupiter.api.*;
-import io.restassured.http.ContentType;
 
-import java.io.File;
-import java.util.LinkedHashMap;
 import java.util.List;
-import java.util.Map;
 
 import static io.restassured.RestAssured.* ;
 import static org.hamcrest.MatcherAssert.assertThat;
