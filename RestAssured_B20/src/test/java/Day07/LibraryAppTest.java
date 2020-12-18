@@ -4,6 +4,7 @@ import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
 import org.junit.jupiter.api.*;
 import pojo.BookCategory;
+import testBase.libraryBase;
 
 import java.util.List;
 import java.util.Map;
@@ -11,19 +12,11 @@ import java.util.Map;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 @TestMethodOrder(MethodOrderer.DisplayName.class)
-public class LibraryAppTest {
+public class LibraryAppTest extends libraryBase {
 //Librarian1  email 	librarian69@library
 //Librarian1  password		KNPXrm3S
 static  String myToken="";
-        @BeforeAll
-        public static void setUp(){
-            baseURI = "http://library1.cybertekschool.com";
-            basePath = "/rest/v1" ;
-        }
-        @AfterAll
-        public static void tearDown(){
-            reset();
-        }
+
 
     @DisplayName("1.Testing POST /login Endpoint")
     @Test
