@@ -8,4 +8,4 @@ Feature: User should be able to city info by zipcode
     Given path 'us/22030'
     When  method get
     Then  status 200
-    
+
